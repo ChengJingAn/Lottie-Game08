@@ -1,0 +1,8 @@
+{
+  "short_name": "Full-Stack-Portfolio",
+  "name": "Ryan-Carville-Full-Stack-Portfolio",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}

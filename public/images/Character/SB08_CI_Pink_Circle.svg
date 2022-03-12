@@ -1,0 +1,53 @@
+<svg id="bed577fb-31af-48b2-aae5-8709b8248eea" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="585" height="585" viewBox="0 0 585 585">
+  <defs>
+    <style>
+      .ff8e0c7c-7135-40fa-9a34-35bdfc5e0d8c {
+        fill: none;
+      }
+
+      .ad946f25-b7a5-48aa-8613-bfa06ebd64a2 {
+        clip-path: url(#ffbeb24e-a9a7-406f-8115-296b59603539);
+      }
+
+      .b1abc46c-b2be-48dc-b462-1d9323879270 {
+        fill: #f9d1c6;
+        stroke: #323232;
+      }
+
+      .a7b3ce7d-f061-49bc-be73-107166b4728c, .b1abc46c-b2be-48dc-b462-1d9323879270, .b3cec8a8-0a74-4abf-ab3d-902f2add7926 {
+        stroke-miterlimit: 10;
+      }
+
+      .a7b3ce7d-f061-49bc-be73-107166b4728c {
+        fill: #00b6c2;
+        stroke: #0c7777;
+        stroke-width: 2px;
+      }
+
+      .bf55c7a7-9d49-46c0-bee8-012fb9992eea {
+        clip-path: url(#a4acc70a-1843-4b2e-ad96-9b5e9a5b1bdd);
+      }
+
+      .b3cec8a8-0a74-4abf-ab3d-902f2add7926 {
+        fill: #ee5f91;
+        stroke: #fff;
+        stroke-width: 12px;
+      }
+    </style>
+    <clipPath id="ffbeb24e-a9a7-406f-8115-296b59603539">
+      <circle class="ff8e0c7c-7135-40fa-9a34-35bdfc5e0d8c" cx="32.5" cy="-392.5" r="285.12"/>
+    </clipPath>
+    <clipPath id="a4acc70a-1843-4b2e-ad96-9b5e9a5b1bdd">
+      <circle class="ff8e0c7c-7135-40fa-9a34-35bdfc5e0d8c" cx="292.5" cy="292.5" r="285.12"/>
+    </clipPath>
+  </defs>
+  <g class="ad946f25-b7a5-48aa-8613-bfa06ebd64a2">
+    <g>
+      <path class="b1abc46c-b2be-48dc-b462-1d9323879270" d="M279.07,27.09l-2.23,11.32-22.23-6.29A80.43,80.43,0,0,0,243.46,6.86l-9.69,19.35S220.86,28.43,229.11-4l3.62-18.36s-46.4-47.29-68.1-87.87L137-151.51l-5.09-7.58s11.78-29,46.62-36.46l7.94,11.85L207.71-152s30.68,50.8,60.37,128.9C268.08-23.12,276.42,12.63,279.07,27.09Z"/>
+      <path class="a7b3ce7d-f061-49bc-be73-107166b4728c" d="M134.12-157.93,152.91-12.46S42,41.46-80.76-9.46c0,0,3.46-15,4-20,7.87-72.18,8.68-157.27,8.68-157.27L-71-143.85a545.43,545.43,0,0,1-60.48-39.44s47.73-86.41,55.68-93c11.64-9.73,75.2-25.23,75.2-25.23S79.76-314.32,138-270.91l42.06,58.55,9.72,13.55s-17.47,15.39-56.16,35.8Z"/>
+    </g>
+  </g>
+  <g class="bf55c7a7-9d49-46c0-bee8-012fb9992eea">
+    <circle class="b3cec8a8-0a74-4abf-ab3d-902f2add7926" cx="292.5" cy="292.5" r="285.12"/>
+  </g>
+</svg>
