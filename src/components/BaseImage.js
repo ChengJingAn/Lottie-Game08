@@ -29,6 +29,9 @@ const BaseImage = (prop, ref) => {
             style.bottom = 100 * prop.posInfo.b + '%'
     }
 
+
+    
+
     return (
         <img
             className={"baseImage " + (prop.class != null ? prop.class : '')}
